@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('Holl')
     .setDetails(`Your Mom`)
     .setStartTimestamp(Date.now())
-.setAssetsLargeImage('https://cdn.discordapp.com/attachments/980479092786872414/1163476750882308216/giphy.gif?ex=653fb729&is=652d4229&hm=73069ed207185407300e1573190b7a466de8bc7e5fc756d8a4a3e6661ac68379&') //You can put links in tenor or discord and etc.
+.setAssetsLargeImage('https://cdn.discordapp.com/attachments/1163535228149702738/1163535367396413520/giphy.gif?ex=660af4c1&is=65f87fc1&hm=caee5727aba2838d08f0ec9cc88222cbfaea448162b1b5a47bf27e9adc503f5a&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('hmm') //Text when you hover the Large image
     .setAssetsSmallImage() //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Hi Stalker') //Text when you hover the Small image
